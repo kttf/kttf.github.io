@@ -1,0 +1,54 @@
+body{  
+
+   font-size: 16px;
+   line-height: 1.2;
+   margin-top:    2em;
+   margin-bottom: 2em;
+   margin-left:   7%;
+   margin-right:  7%;
+   
+   width: auto;
+   height: auto;
+   font-family: "Droid Sans", sans-serif;
+   background-color: #000000;
+   background-image: url(http://www.atomicana.com/music/img/album_page.png); 
+   background-size: cover;
+   background-position: top left;
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+}
+#lablogo {
+	padding-left: 60px;
+	padding-top: 45px;
+	width: auto;
+	border-width: 0px;
+	text-align: center;
+}
+#header {
+	padding-top: 50px;
+	padding-left: 70px;
+	padding-bottom: 10px;
+	text-align: center;
+	font-size: 150%;
+	color: #FFFFFF;
+}
+#content {
+	padding-top: 10px;
+	padding-left: 20px;
+	padding-bottom: 20px;
+	text-align: right;
+	font-size: 100%;
+	color: #FFFFFF;
+}
+a:link{
+        color: #FFFFFF;
+        }
+a:visited{
+        color: #FFFFFF;
+        }
+a:active{
+        color: #FFFFFF;
+        }
+a:hover{
+        color: #FFFFFF;
+        }
