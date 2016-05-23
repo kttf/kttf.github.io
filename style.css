@@ -33,9 +33,10 @@ body{
 	color: #FFFFFF;
 }
 #content {
-	padding-top: 10px;
-	padding-left: 20px;
-	padding-bottom: 20px;
+	padding-top: 0.5em;
+	padding-top: 0.5em;
+	padding-left: 0.5em;
+	padding-right: 0.5em;
 	text-align: right;
 	font-size: 100%;
 	color: #FFFFFF;
@@ -52,3 +53,8 @@ a:active{
 a:hover{
         color: #FFFFFF;
         }
+		
+.img {
+   float: centre;
+   width: 25%;
+}

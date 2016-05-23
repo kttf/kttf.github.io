@@ -52,3 +52,9 @@ a:active{
 a:hover{
         color: #FFFFFF;
         }
+		
+		
+.img {
+   float: centre;
+   width: 25%;
+}
